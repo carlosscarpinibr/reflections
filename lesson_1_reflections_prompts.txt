@@ -1,0 +1,27 @@
+q1
+it helped me to find a typo easily.
+
+q2
+this access will give me a precise idea from where I came from to where do I want to go in my code.
+
+q3
+manual commit
+pros: you can establish your commit logic
+
+cons: you may forget to do it sometimes
+
+q4
+git has this feature because it's a programmer tool unlikely the other software
+
+q5
+with git log I'll track down the commit history
+
+with git diff I'll compare two version of commit using their commit ID
+
+q6
+version control seems to be safe, but I need to understand how git operates going back and foward my files to rely on it
+
+q7
+let's do some coding and see what happens
+
+q8

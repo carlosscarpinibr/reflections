@@ -1,0 +1,4 @@
+q1
+git init created a .git directory in reflection and gave a git status to that folder
+
+q2
