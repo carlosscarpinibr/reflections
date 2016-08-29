@@ -2,3 +2,9 @@ q1
 git init created a .git directory in reflection and gave a git status to that folder
 
 q2
+at the staging area I have to select the files I want to commit.
+I need to choose the files I want to commit in a way that make sense later.
+
+q3
+
+
