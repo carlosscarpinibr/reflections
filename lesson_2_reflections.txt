@@ -13,3 +13,8 @@ i have to use branches when I want to try something different with my code,but m
 
 q5
 diagrams gave me a idea about the branch path from most recent to oldest, split branchs and so...
+
+q6
+merging made a bug fix be included to the master code for me
+
+q7
