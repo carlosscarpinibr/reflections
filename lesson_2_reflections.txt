@@ -11,3 +11,5 @@ staging area is medium space to compare the chages you did in main directory to 
 q4
 i have to use branches when I want to try something different with my code,but maintain the latest good version
 
+q5
+diagrams gave me a idea about the branch path from most recent to oldest, split branchs and so...
