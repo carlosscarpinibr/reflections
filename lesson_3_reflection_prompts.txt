@@ -13,3 +13,6 @@ q4
 having the last copy of remote allows you to keep track of latest update on the project and helps you to merge codes easily in case of a merge conflict.
 
 q5
+definitely harder without github but also hard to remember all comands without confuse some terms like pull and push sometimes
+
+q6
