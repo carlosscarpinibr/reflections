@@ -18,3 +18,7 @@ q6
 merging made a bug fix be included to the master code for me
 
 q7
+all my automatic merge worked ok
+I'll will suffer with manual merge later
+
+
