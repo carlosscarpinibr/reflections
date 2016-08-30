@@ -16,3 +16,4 @@ q5
 definitely harder without github but also hard to remember all comands without confuse some terms like pull and push sometimes
 
 q6
+use separated branch + pull request to work colaborative out of the master branch and later merge the improvements
