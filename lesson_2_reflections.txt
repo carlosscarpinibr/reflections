@@ -9,4 +9,5 @@ q3
 staging area is medium space to compare the chages you did in main directory to staging area and later staging area to commit1.
 
 q4
+i have to use branches when I want to try something different with my code,but maintain the latest good version
 
