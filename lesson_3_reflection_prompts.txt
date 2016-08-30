@@ -1,2 +1,7 @@
 q1
 when I away from my computer
+
+q2
+I need to control what I update to Github to keep my stuff organized that's why automatic upload does not work for me
+
+q3
