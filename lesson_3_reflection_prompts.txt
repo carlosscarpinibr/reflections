@@ -5,3 +5,6 @@ q2
 I need to control what I update to Github to keep my stuff organized that's why automatic upload does not work for me
 
 q3
+forks directly at github
+clone github->pc or pc-pc
+branch local only
