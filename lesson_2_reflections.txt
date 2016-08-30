@@ -6,5 +6,7 @@ at the staging area I have to select the files I want to commit.
 I need to choose the files I want to commit in a way that make sense later.
 
 q3
+staging area is medium space to compare the chages you did in main directory to staging area and later staging area to commit1.
 
+q4
 
