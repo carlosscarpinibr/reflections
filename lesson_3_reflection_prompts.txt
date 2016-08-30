@@ -8,3 +8,8 @@ q3
 forks directly at github
 clone github->pc or pc-pc
 branch local only
+
+q4
+having the last copy of remote allows you to keep track of latest update on the project and helps you to merge codes easily in case of a merge conflict.
+
+q5
